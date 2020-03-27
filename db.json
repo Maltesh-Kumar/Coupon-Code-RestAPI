@@ -1,8 +1,7 @@
 {
-  "coupon": {
-    "customer_id": 31,
-    "coupon_code":"JG50",
-    "resturant_id":"12AQ",
-    "order_price":189
+  "coupon": { 
+    "coupon_code": "JG50",
+    "message": "you are eligible for coupon code",
+    "status": 200
   }
 }
