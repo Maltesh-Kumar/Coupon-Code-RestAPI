@@ -1,0 +1,8 @@
+{
+  "coupon": {
+    "customer_id": 31,
+    "coupon_code":"JG50",
+    "resturant_id":"12AQ",
+    "order_price":189
+  }
+}
