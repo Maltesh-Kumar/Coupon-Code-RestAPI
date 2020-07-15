@@ -2,7 +2,7 @@
   {
   "coupon": { 
     "coupon_code": [
-      "cc":"JG50",
+      "cc" : "JG50",
       ],
     "message": "you are eligible for coupon code",
     "status": 200
