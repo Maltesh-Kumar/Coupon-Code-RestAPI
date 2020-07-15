@@ -1,9 +1,11 @@
-[
+
   {
   "coupon": { 
-    "coupon_code": "JG50",
+    "coupon_code": [
+      "cc":"JG50",
+      ],
     "message": "you are eligible for coupon code",
     "status": 200
   }
 }
-]
+
